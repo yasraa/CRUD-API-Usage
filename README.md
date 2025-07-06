@@ -157,7 +157,7 @@ All API endpoints can be tested using **Postman**.
 
 ## 👩‍💻 Author
 
-**Yasra Khan**
+**Yasra Kashif**
 
 ---
 
